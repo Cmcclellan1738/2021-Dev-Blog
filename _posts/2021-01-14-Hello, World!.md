@@ -27,7 +27,8 @@ My goals are:
 
 Markdown is an extremely useful tool which can help you format your posts on github and make it look better and have it be organized.
 
-### GitFLow
+### GitFlow
 
-This is more info about what I learned...
-
+I learned a lot about github and how to use markdown to organize my posts and make it better for the reader experience.
+I was surprised by how difficult something can be when you are learning markdown or how to properly format the paper.
+Im trying to learn more about how to master markdown and to use github and all of its tools.
