@@ -25,7 +25,7 @@ My goals are:
 
 ### Markdown
 
-This is where I will write my reflection...
+Markdown is an extremely useful tool which can help you format your posts on github and make it look better and have it be organized.
 
 ### GitFLow
 
