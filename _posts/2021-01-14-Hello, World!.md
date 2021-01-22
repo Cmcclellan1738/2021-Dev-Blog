@@ -17,9 +17,9 @@ My name is Cameron and I am taking a computer coding class.
 
 My goals are:
 
-1.Get better at coding
-1.Get good grades
-1.Get my work done
+1. Get better at coding
+1. Get good grades
+1. Get my work done
 
 ## What I Have Learned About Github
 
