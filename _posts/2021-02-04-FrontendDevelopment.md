@@ -1,6 +1,6 @@
 ---
 title: Frontend Development Explained
-date: 2021-02-4
+date: 2021-02-04
 ---
 
 # What is Frontend Development?
@@ -8,7 +8,7 @@ date: 2021-02-4
 
 Front-end web development is the practice of converting data to a graphical interface, through the use of HTML, CSS, and JavaScript, so that users can view and interact with that data.
 
-<a href="#frontend_development">Learn more.
+<a href="#final_thoughts">My final thoughts.
   
 ## What is HTML?
 HTML is a markup language for editing and formatting text documents that are designed to be displayed on a web page, it pairs well with CSS and JavaScript to help with syntax.
