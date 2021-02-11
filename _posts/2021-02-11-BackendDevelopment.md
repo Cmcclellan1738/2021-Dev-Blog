@@ -3,7 +3,7 @@ title: Drone Communication
 date: 2021-02-11
 ---
 
-# How Drones and A Computer Communicate
+# How Drones and a Computer Communicate
 ### IP Adresses and Port Numbers
 
 We use IP adresses and port numbers to connect directly from our computer to the drone. Every IP address is unique and every port number is unique to the device you are using. The first 3 group of number or octets in an IP adress describes the network your device is currently connected to. The last octet in an IP address is the host number or the specific number your network temporarily assigns to your device.  
